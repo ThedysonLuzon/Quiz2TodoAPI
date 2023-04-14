@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: comp367-windows
+  vmImage: COMP367-windows
 
 variables:
   buildConfiguration: 'Release'
